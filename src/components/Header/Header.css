@@ -1,0 +1,14 @@
+
+#header-containor{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ebb134;
+    height:120px;
+    font-family: cursive;
+    border-radius: 0 0 20px 20px;
+    font-size: 45px;
+}

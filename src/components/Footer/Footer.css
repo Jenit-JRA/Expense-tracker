@@ -1,0 +1,11 @@
+#footer-containor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.863);
+    color: azure;
+    height: 60px;
+
+}
